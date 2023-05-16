@@ -1,0 +1,14 @@
+Screen1 As screen:
+
+    Label1 As label:
+        Align: =Align.Center
+        Fill: =RGBA(127, 178, 57, 1)
+        FontWeight: =FontWeight.Semibold
+        Height: =125
+        Size: =30
+        Text: ="Welcome to Git Demo"
+        Width: =1187
+        X: =64
+        Y: =57
+        ZIndex: =1
+
