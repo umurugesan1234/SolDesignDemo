@@ -6,7 +6,7 @@ Screen1 As screen:
         FontWeight: =FontWeight.Semibold
         Height: =125
         Size: =30
-        Text: ="Welcome to Git Demo - V3"
+        Text: ="Welcome to Git Demo - V4"
         Width: =1187
         X: =64
         Y: =57
